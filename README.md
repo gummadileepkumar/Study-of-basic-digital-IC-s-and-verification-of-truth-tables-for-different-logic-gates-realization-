@@ -81,6 +81,15 @@ endmodule
 
 ## RTL realization
 ### Output:
+
+
+
+
+
+
+
+
+
 ![Screenshot (84)](https://user-images.githubusercontent.com/118707761/231419920-d3608082-e480-4fc6-b2e4-0ea2aabce821.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/118707761/231419962-d83350a4-a7c2-48d5-bb16-626aac76ea2b.png)
 
